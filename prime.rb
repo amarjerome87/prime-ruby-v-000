@@ -1,4 +1,3 @@
-require prime
 def prime?(number)
   if number
     return true
