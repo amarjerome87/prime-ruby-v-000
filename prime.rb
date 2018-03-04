@@ -1,8 +1,8 @@
 require prime
 def prime?(number)
-  if number.prime
+  if number
     return true
   else
     return false
   end
-end 
+end
