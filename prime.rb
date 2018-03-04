@@ -1,6 +1,6 @@
 require 'prime'
 def prime?(number)
-  if number.prime
+  if number.prime?
     return true
   else
     return false
